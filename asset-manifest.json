@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.feb81536.chunk.js",
+    "main.js.map": "/static/js/main.feb81536.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de4d7cdc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de4d7cdc.js.map",
+    "static/js/2.6e4b796d.chunk.js": "/static/js/2.6e4b796d.chunk.js",
+    "static/js/2.6e4b796d.chunk.js.map": "/static/js/2.6e4b796d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.6e4b796d.chunk.js.LICENSE.txt": "/static/js/2.6e4b796d.chunk.js.LICENSE.txt",
+    "static/media/dc-batman.ab9eadc3.jpg": "/static/media/dc-batman.ab9eadc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de4d7cdc.js",
+    "static/js/2.6e4b796d.chunk.js",
+    "static/js/main.feb81536.chunk.js"
+  ]
+}
